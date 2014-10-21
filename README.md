@@ -1,1 +1,1 @@
-These are projects done during my time at Wyncode code school.
+These are coding questions and smaller projects done during my time at Wyncode code school.
