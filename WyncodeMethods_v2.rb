@@ -1,5 +1,4 @@
 ###### Wyncode_methods version 2.0 ######
-#### Revisit your wyncode.rb homework program. Create a new file named wyncode_methods.rb and rewrite at least 5 of your small code-based answers to use methods. Add tests to document how your methods handle some common errors. ####
 
 ### Method 1. Assume someone buys a product from your website for $33.50. You don’t trust float money. Can you think of something you can do to help you keep track of that value? ###
 
